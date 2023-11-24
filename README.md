@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/stats-preview-card-component-sTkihAR7zQ
 - Live Site URL: https://akshansh029.github.io/FEM-stats-preview-card/
 
 ## My process
